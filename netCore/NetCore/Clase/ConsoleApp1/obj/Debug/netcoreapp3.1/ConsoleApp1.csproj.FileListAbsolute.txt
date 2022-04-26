@@ -1,0 +1,13 @@
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\repositorios GIT\netCore\NetCore\Clase\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
